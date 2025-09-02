@@ -7,3 +7,4 @@ Hestens sjæl fløj op
 Han hed Lars
 Hans rytter hed Gunner 
 Gunner begravede Lars ved en sø
+Søen var fuld af frøer
