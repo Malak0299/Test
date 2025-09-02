@@ -6,3 +6,4 @@ Som døde på stedet
 Hestens sjæl fløj op
 Han hed Lars
 Hans rytter hed Gunner 
+Gunner begravede Lars ved en sø
