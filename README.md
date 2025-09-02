@@ -1,4 +1,4 @@
-# Test
+# 2. sep med HTX
 Det var engang
 
 En hest der gik
@@ -19,4 +19,4 @@ Søen var fuld af frøer
 
 Efter nogle dage genopstog Lars som en bunke af frøer
 
-Tak for i dag HTX!
+**Tak for i dag HTX!**
