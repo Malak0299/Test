@@ -8,3 +8,4 @@ Han hed Lars
 Hans rytter hed Gunner 
 Gunner begravede Lars ved en sø
 Søen var fuld af frøer
+Efter nogle dage genopstog Lars som en bunke af frøer
